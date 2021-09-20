@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<a href="https://github.com/TheDudeThatCode">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDudeThatCode&theme=dark&hide_langs_below=1" />
+</a>
 <!--
 **iftiben10/iftiben10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
