@@ -1,5 +1,5 @@
 ### Hi there <img alt="GIF" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="30vw" />
-## I"m -->Yusuf Iqbal Ifti(https://iftiben10.github.io/)
+## I"m [Yusuf Iqbal Ifti](https://iftiben10.github.io/)
 <!--
 **iftiben10/iftiben10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
