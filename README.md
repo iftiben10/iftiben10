@@ -1,4 +1,4 @@
-### Hi there <img alt="GIF" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/hi.gif" width="30vw" />
+### Hi there <img alt="GIF" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="30vw" />
 
 <!--
 **iftiben10/iftiben10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
